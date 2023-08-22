@@ -57,7 +57,7 @@ let stuff = ["Developer", "Coffee Lover", "History Enthusiast"];
    <div class="bg-zinc-200 dark:bg-gray-800 mx-12 mt-12 rounded-t-lg">
 
 
-   <h1 class=" text-7xl text-zinc-400 m-10" id="portfolio">Portfolio:</h1>
+   <h1 class=" text-4xl text-zinc-400 m-10" id="portfolio">Portfolio:</h1>
 
    <p class="text-zinc-400 m-16 text-2xl"><span class="text-3xl">Roads</span> <br> A bible Memory verse web app. <br>
     
@@ -95,14 +95,16 @@ Made with:
 </div>
 </div>
 <div id="blog" class="snap-start h-screen bg-zinc-200 dark:bg-gray-800">
-<h1 class="m-12 text-zinc-400 text-7xl">
-Blog
+<h1 class="m-10 text-zinc-400 text-4xl">
+Bootstrap: My opinion
 </h1>
-<p class=" m-10 text-zinc-400">{bootstrap}...</p>
+<p class=" m-5 text-zinc-400">{bootstrap}...</p>
 
 </div>
 
-<div id="blog" class="snap-start bg-gradient-to-r from-purple-400 to-pink-600 h-screen ">
+<div id="blog" class="snap-start h-screen bg-zinc-200 dark:bg-gray-800">
+</div>
+<div id="end" class="snap-start bg-gradient-to-r from-purple-400 to-pink-600 h-screen ">
 
   <div class="bg-zinc-200 h-1/2  dark:bg-gray-800 mx-12 mt-12  rounded-b-lg">
 <p class="text-zinc-400 m-4 text-center ">This website is Open Source.<br><br>View the source code on <a class="text-purple-400"href="https://github.com/jadonus/homepage">Github</a><br><br>Copyright 2023 Jadon Gearhart </p>
